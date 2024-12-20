@@ -18,14 +18,14 @@ Proyek ini difokuskan pada analisis data dari E-Commerce Public Dataset, dengan 
 1. Untuk menyalin repositori ini ke komputer lokal Anda, gunakan perintah berikut:
 
    ```shell
-   git clone https://github.com/Mad3angga/Proyek-Analisis-Data.git
+   git clone https://github.com/Mad3angga/analisisdata.git
    ```
 
 2. Pastikan lingkungan Python Anda sudah sesuai dan pustaka-pustaka yang dibutuhkan sudah terpasang. Anda dapat menginstalnya dengan menjalankan perintah berikut:
 
    ```shell
    pip install streamlit
-   pip install -r dashboard/requirements.txt
+   pip install -r requirements.txt
    ```
 
 ## Cara Penggunaan
@@ -33,7 +33,7 @@ Proyek ini difokuskan pada analisis data dari E-Commerce Public Dataset, dengan 
 1. Pindah ke direktori proyek (Local):
 
    ```shell
-   cd dicoding/dashboard/
+   cd dashboard
    streamlit run dash.py
    ```
    
