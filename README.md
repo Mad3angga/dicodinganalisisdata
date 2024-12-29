@@ -6,19 +6,19 @@ Repositori ini berisi proyek analisis data yang telah saya buat.
 
 ## Deskripsi
 
-Proyek ini difokuskan pada analisis data dari E-Commerce Public Dataset, dengan tujuan untuk mengidentifikasi pola dan tren yang dapat memberikan informasi yang berguna bagi pengambilan keputusan bisnis.
+Proyek ini difokuskan pada analisis data dari Bike Sharing Data Dataset, dengan tujuan untuk mengidentifikasi pola dan tren yang dapat memberikan informasi yang berguna bagi pengambilan keputusan bisnis.
 
 ## Folder Direktori
 
 - **/data**: Direktori ini menyimpan file data yang digunakan dalam proyek ini dengan format .csv.
-- **/dashboard**: Direktori ini berisi file `dash.py` yang digunakan untuk membangun dashboard yang menampilkan hasil analisis data, serta file `ipynb` untuk proses analisis data.
+- **/dashboard**: Direktori ini berisi file `dash.py` yang digunakan untuk membangun dashboard yang menampilkan hasil analisis data. 
 
 ## Instalasi
 
 1. Untuk menyalin repositori ini ke komputer lokal Anda, gunakan perintah berikut:
 
    ```shell
-   git clone https://github.com/Mad3angga/analisisdata.git
+   git clone https://github.com/Mad3angga/dicodinganalisisdata.git
    ```
 
 2. Pastikan lingkungan Python Anda sudah sesuai dan pustaka-pustaka yang dibutuhkan sudah terpasang. Anda dapat menginstalnya dengan menjalankan perintah berikut:
@@ -37,4 +37,4 @@ Proyek ini difokuskan pada analisis data dari E-Commerce Public Dataset, dengan 
    streamlit run dash.py
    ```
    
-   <img src="../data/whole page.png"
+   <img src="./data/fullpage.png"></img>
